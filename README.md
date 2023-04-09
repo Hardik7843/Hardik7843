@@ -55,7 +55,7 @@ KPMG AU | Tableau,Jupyter Notebook | [Repo]()
 
 <p align = "center">
     <a href="https://www.linkedin.com/in/hardik-prajapati-596293212/" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
-    <a href="mailto:mahimachuri.28@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
+    <a href="Hardik Prajapati:hardikprajapati7843@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
     <a href="https://api.whatsapp.com/send/?phone=%2B917715891774&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>
     
 </p> 
