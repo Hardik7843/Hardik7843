@@ -10,14 +10,14 @@ I've always been a dedicated student currently finalizing B.E. in computer engin
 
 Highly responsible and organized with excellent writing, communication, and critical thinking abilities. 
 
-- **[Data Science & Business Analytics Intern](https://drive.google.com/file/d/1JK55wUEDg7X08A1VkvdWUMS1z2YJ0PNp/view?usp=sharing)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/Mahitej28/Eco_Bank)
-- **[Virtual Traineeship at KPMG](https://drive.google.com/file/d/18w4I2R5CFjAmW4EO94xtmVbYOVQ7GgRD/view?usp=sharing)** at **[Code Clause](https://internship.codeclause.com/)**. See the [project](https://github.com/Mahitej28/CodeClause_Unit-Converter_Mahima)
-- Management Head at [Robocon CRCE](https://www.linkedin.com/company/tcet-shastra-coding-club/mycompany/)
+- **[Data Science & Business Analytics Intern](https://truecertificates.com/verified/GSG7SRUBKQ)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/Hardik7843/TheSparksFoundation)
+- **[Virtual Traineeship at KPMG]** at **[KPMG](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_iv5XSmpFPjttWo8qn_1680112833403_completion_certificate.pdf)**. See the [project](https://github.com/Hardik7843/KPMG/tree/master)
+- Management Head at [Robocon CRCE](https://www.linkedin.com/company/robocon-fr-crce/mycompany/)
 
 ## 🔗 Important Links
-- Projects: [github.com/Mahitej28](https://github.com/Mahitej28)
-- Linkedin: [linkedin.com/mahimachuri](https://www.linkedin.com/in/mahimachuri/)
-- Resume: [resume/mahimachuri](https://drive.google.com/file/d/17VbiD4mzrvAiLzoyq5ERdslkLGEKbufO/view?usp=sharing)
+- Projects: [Hardik7843](https://github.com/Hardik7843)
+- Linkedin: [hardik-prajapati-596293212/](https://www.linkedin.com/in/hardik-prajapati-596293212/)
+- Resume: [resume/Hardik](https://drive.google.com/file/d/1vD4faUdxQ39HPc4sgC8Ps5c90pHXxTDK/view?usp=sharing)
 
 ## 🛠 Skills
 | Domain             |Tech      Stack                                                                |
@@ -30,14 +30,14 @@ Highly responsible and organized with excellent writing, communication, and crit
 ## 👩‍💻 Projects and Trainings
 <!-- Machine Learning -->
 <details>
-  <summary><b>Web Development</b></summary>
+  <summary><b>Machine Learning</b></summary>
   <br/>
   
 Task Name | Tech Stack | Source Code | 
 ------- | --------- | :--------: | 
-House Price Prediction | Python,Flask,HTML,CSS | [Repo](https://github.com/Mahitej28/Eco_Bank)
-Sign Language Interpreter | OpenCV, Flask,HTML | [Repo](https://github.com/Mahitej28/Mini-Calculator)
-Package Delivering system | Node MCU,Python,Circuit Maker | [Repo](https://github.com/Mahitej28/CodeClause_Stopwatch-Timer_Mahima)
+House Price Prediction | Python,Flask,HTML,CSS | [Repo](https://github.com/Hardik7843/mini_project)
+Sign Language Interpreter | OpenCV, Flask,HTML | [Repo](https://github.com/Hardik7843/Sem6/tree/model_trained)
+Package Delivering system | Node MCU,Python,Circuit Maker | 
 </details>
 <!-- Data Science -->
 <details>
@@ -46,8 +46,8 @@ Package Delivering system | Node MCU,Python,Circuit Maker | [Repo](https://githu
 
 Task Name | Tool | Source Code | 
 ------- | --------- | :--------: | 
-The Sparks Foundation | Matplotlib | [Repo](https://github.com/Mahitej28/UI-UX-Design)
-KPMG AU | Tableau,Jupyter Notebook | [Repo](https://github.com/Mahitej28/UI-UX-Design)
+The Sparks Foundation | Matplotlib | [Repo](https://github.com/Hardik7843/TheSparksFoundation)
+KPMG AU | Tableau,Jupyter Notebook | [Repo](https://github.com/Hardik7843/KPMG/tree/master)
 
 </details>
 
