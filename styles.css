@@ -1,0 +1,111 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #001f3f, #000000);
+  color: #ff4136;
+}
+
+/* Header Styles */
+header {
+  background-color: transparent;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Navigation Styles */
+nav {
+  background-color: transparent;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #ff4136;
+  padding: 5px;
+}
+
+/* Section Styles */
+section {
+  padding: 20px;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+section h2 {
+  color: #ff851b;
+}
+
+.project {
+  margin-bottom: 20px;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+/* Animation for Contact */
+@keyframes contactAnimation {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#contact {
+  animation-name: contactAnimation;
+}
+
+/* Animation for Projects */
+@keyframes projectAnimation {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#projects {
+  animation-name: projectAnimation;
+}
+
+/* Animation for About */
+@keyframes aboutAnimation {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#about {
+  animation-name: aboutAnimation;
+}
+
+/* Footer Styles */
+footer {
+  background-color: transparent;
+  padding: 10px;
+  text-align: center;
+  color: #ff851b;
+}
